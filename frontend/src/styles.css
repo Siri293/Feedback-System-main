@@ -1,0 +1,71 @@
+:root{
+  --primary:#4F46E5;
+  --primary-light:#6366F1;
+  --background:#F9FAFB;
+  --card:#ffffff;
+  --text:#111827;
+  --text-muted:#6B7280;
+  --border:#E5E7EB;
+}
+
+body{
+  background:var(--background);
+  font-family: Inter, sans-serif;
+  color:var(--text);
+}
+
+/* form card */
+.form-card{
+  max-width:520px;
+  margin:auto;
+  background:var(--card);
+  padding:28px;
+  border-radius:14px;
+  box-shadow:0 12px 30px rgba(0,0,0,0.08);
+}
+
+/* labels */
+.form-label{
+  font-size:0.85rem;
+  font-weight:600;
+  color:#374151;
+  margin-bottom:6px;
+  display:block;
+}
+
+/* inputs */
+.form-input{
+  width:100%;
+  padding:12px 14px;
+  border:1.5px solid var(--border);
+  border-radius:10px;
+  font-size:0.95rem;
+  background:#F9FAFB;
+  transition:all .2s ease;
+}
+
+.form-input:focus{
+  border-color:var(--primary);
+  background:white;
+  outline:none;
+  box-shadow:0 0 0 3px rgba(79,70,229,0.15);
+}
+
+/* button */
+.btn-primary{
+  width:100%;
+  padding:14px;
+  border:none;
+  border-radius:10px;
+  background:linear-gradient(90deg,#4F46E5,#6366F1);
+  color:white;
+  font-weight:600;
+  font-size:0.95rem;
+  cursor:pointer;
+  transition:transform .15s ease, box-shadow .15s ease;
+}
+
+.btn-primary:hover{
+  transform:translateY(-2px);
+  box-shadow:0 8px 16px rgba(79,70,229,0.25);
+}
