@@ -1,6 +1,6 @@
 # FeedbackIQ — Customer Feedback Intelligence Platform
 
-> An AI-powered full-stack customer feedback management system with real-time sentiment analysis, advanced database features, and Google Gemini AI integration.
+> An Full-stack customer feedback management system with real-time sentiment analysis, advanced database features, and Google Gemini AI integration.
 
 ![FeedbackIQ Banner](https://img.shields.io/badge/FeedbackIQ-Customer%20Feedback%20Platform-4F46E5?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react)
@@ -260,7 +260,7 @@ This project is built for academic and portfolio purposes.
 **Mandapati Siri Chandana**
 B.Tech Data Science — Vignan's Lara Institute of Technology and Science, Andhra Pradesh
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mandapati-sirichandana-175b8a367/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mandapati-sirichandana-175b8a367/))
 [![GitHub](https://img.shields.io/badge/GitHub-Siri293-181717?style=flat-square&logo=github)](https://github.com/Siri293)
 
 ---
