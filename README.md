@@ -260,7 +260,7 @@ This project is built for academic and portfolio purposes.
 **Mandapati Siri Chandana**
 B.Tech Data Science — Vignan's Lara Institute of Technology and Science, Andhra Pradesh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mandapati-sirichandana-175b8a367/))
 [![GitHub](https://img.shields.io/badge/GitHub-Siri293-181717?style=flat-square&logo=github)](https://github.com/Siri293)
 
 ---
