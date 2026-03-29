@@ -3,7 +3,7 @@ const mysql = require('mysql2/promise');
 const pool = mysql.createPool({
   host: process.env.DB_HOST || 'localhost',
   user: process.env.DB_USER || 'root',
-  password: process.env.DB_PASSWORD || 'root293',
+  password: process.env.DB_PASSWORD || '*******',  --->(Your Root Password in place of stars)
   database: process.env.DB_NAME || 'feedback_db',
   waitForConnections: true,
   connectionLimit: 10,
