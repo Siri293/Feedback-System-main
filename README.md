@@ -258,6 +258,8 @@ This project is built for academic and portfolio purposes.
 ## 👩‍💻 Author
 
 **Mandapati Siri Chandana**
+**Kundeti BNSK Yoshitha**
+**Chennam Lasya**
 B.Tech Data Science — Vignan's Lara Institute of Technology and Science, Andhra Pradesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mandapati-sirichandana-175b8a367/))
