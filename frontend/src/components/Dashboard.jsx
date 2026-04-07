@@ -197,6 +197,7 @@ export default function Dashboard() {
 
         {error && <div className="alert error" style={{ marginBottom: 24 }}>{error}</div>}
 
+
         {/* ── Stat Cards ──────────────────────────────────────────────── */}
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 20, marginBottom: 28 }}>
           <StatCard type="total"    icon="📊" label="Total Feedback"    value={loading ? '—' : total}    color="#2563EB" total={total} />
